@@ -1,0 +1,20 @@
+{
+  "name": "web-ssh",
+  "version": "1.0.0",
+  "description": "web ssh client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ssh","ssh-client"
+  ],
+  "author": "wing",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.17.2",
+    "express-ws": "5.0.2",
+    "ssh2": "1.6.0",
+    "utf8": "3.0.0"
+  }
+}
